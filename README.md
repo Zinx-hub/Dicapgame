@@ -133,6 +133,5 @@ dungeon-crawler/
 
 ## 👤 Author
 
-**[Your Name]**  
-Python Programming Project — [Year]  
-GitHub: [your-github-username]
+stephane Zinsou  
+
